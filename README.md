@@ -39,16 +39,6 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Reinaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
-
-</div>
-
 ⚠️ https://github.com/reinaldo-dev10
 
 ---
