@@ -49,7 +49,7 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 
 </div>
 
-⚠️ Substitua **SEU_USUARIO_AQUI** pelo seu username do GitHub.
+⚠️ https://github.com/reinaldo-dev10
 
 ---
 
