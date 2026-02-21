@@ -1,4 +1,8 @@
+
 # 👨‍💻 Reinaldo Vieira dos Santos
+
+<img width="672" height="900" alt="Gemini_Generated_Image_4vgd3h4vgd3h4vgd - Copia" src="https://github.com/user-attachments/assets/2a66e8c5-e301-442d-ac00-cb7905458f39" />
+
 
 🎯 Desenvolvedor Full Stack em formação...  
 💡 Foco em Desenvolvimento Web e Sistemas  
