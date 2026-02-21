@@ -2,7 +2,7 @@
 # 👨‍💻 Reinaldo Vieira dos Santos
 
 <div align="center">
-<img width="272" height="400" alt="Gemini_Generated_Image_4vgd3h4vgd3h4vgd - Copia" src="https://github.com/user-attachments/assets/2a66e8c5-e301-442d-ac00-cb7905458f39" />
+  <img width="272" height="400" alt="Gemini_Generated_Image_4vgd3h4vgd3h4vgd - Copia" src="https://github.com/user-attachments/assets/2a66e8c5-e301-442d-ac00-cb7905458f39" />
 </div>
 
 🎯 Desenvolvedor Full Stack em formação...  
@@ -60,7 +60,7 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 ## 📂 Projetos em Destaque
 
 🔹 Sistema de Cadastro com PHP + MySQL  
-🔹 Dashboard Administrativo Responsivo  
+🔹 Dashboard Administrativo Responsivo - em andamento
 🔹 Calendário Interativo com JavaScript - em andamento
 🔹 Galeria Responsiva com HTML5 + CSS3 
 🔹 Super chat para intranet - em andamento
