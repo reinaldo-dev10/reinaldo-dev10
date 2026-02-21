@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Full Stack em formação...  
 💡 Foco em Desenvolvimento Web e Sistemas  
-📍 Graduado: Análise e Desenvolvimento de Sistemas, Pós Graduado em Gesntão e Governância de Tecnologia da informação, graduando em Engenharia de Software...  
+📍 Graduado: Análise e Desenvolvimento de Sistemas, Pós Graduado em Gestão e Governança de Tecnologia da Informação, graduando em Engenharia de Software...  
 
 ---
 
@@ -50,21 +50,20 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 🔹 Calendário Interativo com JavaScript - em andamento
 🔹 Galeria Responsiva com HTML5 + CSS3  
 
-(Adicione os links dos seus repositórios aqui)
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para projetos reais.
+... 
 
 ---
 
 ## 📫 Contato
 
-📧 Seu Email  
-💼 LinkedIn  
-🌐 Portfólio (se tiver)
+📧 Seu Email: reinaldocurso2010@hotmail.com
+💼 LinkedIn: ...  
+🌐 Portfólio: ...
 
 ---
 
