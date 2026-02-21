@@ -39,9 +39,9 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 ## 📌 Áreas de Conhecimento
 
 - Desenvolvimento Web Responsivo - em estudo
-- CRUD completo com PHP + MySQL
+- CRUD completo com PHP + MySQL 
 - Manipulação de DOM com JavaScript - em estudo
-- Programação Orientada a Objetos (Java)
+- Programação Orientada a Objetos (Java) - https://github.com/reinaldo-dev10/Projeto-O.S
 - Estruturação e organização de projetos
 
 ---
