@@ -30,6 +30,8 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -38,10 +40,10 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 
 ## 📌 Áreas de Conhecimento
 
-- Desenvolvimento Web Responsivo - em estudo
+- Desenvolvimento Web Responsivo - em estudo https://github.com/reinaldo-dev10/womcoo-landing-page
 - CRUD completo com PHP + MySQL 
 - Manipulação de DOM com JavaScript - em estudo
-- Programação Orientada a Objetos (Java) - https://github.com/reinaldo-dev10/Projeto-O.S
+- Programação Orientada a Objetos (Java)  https://github.com/reinaldo-dev10/Projeto-O.S
 - Estruturação e organização de projetos
 
 ---
