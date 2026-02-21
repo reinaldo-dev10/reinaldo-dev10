@@ -60,7 +60,6 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 🔹 Galeria Responsiva com HTML5 + CSS3 
 🔹 Super chat para intranet - em andamento
 
-
 ---
 
 ## 🎯 Objetivo Profissional
