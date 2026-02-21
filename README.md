@@ -60,10 +60,10 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 ## 📂 Projetos em Destaque
 
 🔹 Sistema de Cadastro com PHP + MySQL  
-🔹 Dashboard Administrativo Responsivo - em andamento
-🔹 Calendário Interativo com JavaScript - em andamento
-🔹 Galeria Responsiva com HTML5 + CSS3 
-🔹 Super chat para intranet - em andamento
+🔹 Dashboard Administrativo Responsivo - em andamento <br>
+🔹 Calendário Interativo com JavaScript - em andamento <br>
+🔹 Galeria Responsiva com HTML5 + CSS3 <br>
+🔹 Super chat para intranet - em andamento <br>
 
 ---
 
