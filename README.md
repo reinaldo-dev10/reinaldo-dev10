@@ -75,9 +75,9 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 
 ## 📫 Contato
 
-📧 Seu Email: reinaldocurso2010@hotmail.com
-💼 LinkedIn: ...  
-🌐 Portfólio: ...
+📧 Seu Email: reinaldocurso2010@hotmail.com <br>
+💼 LinkedIn: https://www.linkedin.com/in/reinaldo-vieira-dos-santos-271a6587/ <br>  
+🌐 Portfólio: https://reinaldo-dev10.github.io/portifolio-dev/ <br>
 
 ---
 
