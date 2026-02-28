@@ -53,10 +53,6 @@ Tenho experiência prática no desenvolvimento de projetos utilizando back-end e
 
 ---
 
-⚠️ https://github.com/reinaldo-dev10
-
----
-
 ## 📂 Projetos em Destaque
 
 🔹 Sistema de Cadastro com PHP + MySQL  
